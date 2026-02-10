@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Shivam Shakya
 
-<!--
-**Shivam3417/Shivam3417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🌱 Learning Full Stack (MERN)  
+🚀 I build websites & web apps  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- HTML, CSS, JavaScript
+- WordPress
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Portfolio Website
+- Blog Website
+- Login Page
+
+### 📫 Contact
+- Email: shivamshakya3417@gmail.com
+- Instagram: @webwithshivam
